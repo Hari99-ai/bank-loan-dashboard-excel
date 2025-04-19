@@ -5,9 +5,13 @@ This project presents an interactive **Bank Loan Dashboard** created using **Mic
 ---
 
 ## 📁 Files 
-bank-loan-dashboard-excel/ │ ├── Finance.xlsx # Main Excel dashboard file └── README.md # Documentation for the project
+bank-loan-dashboard-excel/
 
-## 🧾 Sheet Descriptions
+│ ├── Finance.xlsx # Main Excel dashboard file 
+
+└── README.md # Documentation for the project
+
+## 🧾 Sheet Description 
 
 - **Sheet1**: Raw or intermediate data used for analysis and dashboard calculations.
 - **summary deshboard**: A visually rich summary showing:
